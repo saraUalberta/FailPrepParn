@@ -1,0 +1,76 @@
+status file for recon-all
+Tue Jan 23 03:48:48 UTC 2018
+#@# MotionCor Tue Jan 23 03:49:01 UTC 2018
+#@# Talairach Tue Jan 23 03:49:25 UTC 2018
+#@# Talairach Failure Detection Tue Jan 23 03:52:52 UTC 2018
+#@# Nu Intensity Correction Tue Jan 23 03:52:52 UTC 2018
+#@# Intensity Normalization Tue Jan 23 03:56:56 UTC 2018
+#@# Skull Stripping Tue Jan 23 04:01:45 UTC 2018
+#@# EM Registration Tue Jan 23 04:48:55 UTC 2018
+#@# CA Normalize Tue Jan 23 05:30:27 UTC 2018
+#@# CA Reg Tue Jan 23 05:33:58 UTC 2018
+#@# SubCort Seg Tue Jan 23 11:59:41 UTC 2018
+#@# Merge ASeg Tue Jan 23 14:26:10 UTC 2018
+#@# Intensity Normalization2 Tue Jan 23 14:26:10 UTC 2018
+#@# Mask BFS Tue Jan 23 14:34:01 UTC 2018
+#@# WM Segmentation Tue Jan 23 14:34:06 UTC 2018
+#@# Fill Tue Jan 23 14:39:32 UTC 2018
+#@# Tessellate lh Tue Jan 23 14:41:23 UTC 2018
+#@# Tessellate rh Tue Jan 23 14:41:38 UTC 2018
+#@# Smooth1 lh Tue Jan 23 14:41:52 UTC 2018
+#@# Smooth1 rh Tue Jan 23 14:42:03 UTC 2018
+#@# Inflation1 lh Tue Jan 23 14:42:15 UTC 2018
+#@# Inflation1 rh Tue Jan 23 14:43:19 UTC 2018
+#@# QSphere lh Tue Jan 23 14:44:21 UTC 2018
+#@# QSphere rh Tue Jan 23 14:51:07 UTC 2018
+#@# Fix Topology Copy lh Tue Jan 23 14:57:28 UTC 2018
+#@# Fix Topology Copy rh Tue Jan 23 14:57:28 UTC 2018
+#@# Fix Topology lh Tue Jan 23 14:57:29 UTC 2018
+#@# Fix Topology rh Wed Jan 24 07:40:53 UTC 2018
+#@# Make White Surf lh Wed Jan 24 14:17:39 UTC 2018
+#@# Make White Surf rh Wed Jan 24 14:22:38 UTC 2018
+#@# Smooth2 lh Wed Jan 24 14:27:59 UTC 2018
+#@# Smooth2 rh Wed Jan 24 14:28:05 UTC 2018
+#@# Inflation2 lh Wed Jan 24 14:28:10 UTC 2018
+#@# Inflation2 rh Wed Jan 24 14:28:47 UTC 2018
+#@# Curv .H and .K lh Wed Jan 24 14:29:23 UTC 2018
+#@# Curv .H and .K rh Wed Jan 24 14:30:59 UTC 2018
+#@# Curvature Stats lh Wed Jan 24 14:32:36 UTC 2018
+#@# Curvature Stats rh Wed Jan 24 14:32:40 UTC 2018
+#@# Sphere lh Wed Jan 24 14:32:44 UTC 2018
+#@# Sphere rh Wed Jan 24 16:43:10 UTC 2018
+#@# Surf Reg lh Wed Jan 24 17:56:02 UTC 2018
+#@# Surf Reg rh Wed Jan 24 19:21:28 UTC 2018
+#@# Jacobian white lh Wed Jan 24 20:34:32 UTC 2018
+#@# Jacobian white rh Wed Jan 24 20:34:36 UTC 2018
+#@# AvgCurv lh Wed Jan 24 20:34:40 UTC 2018
+#@# AvgCurv rh Wed Jan 24 20:34:42 UTC 2018
+#@# Cortical Parc lh Wed Jan 24 20:34:46 UTC 2018
+#@# Cortical Parc rh Wed Jan 24 20:35:11 UTC 2018
+#@# Make Pial Surf lh Wed Jan 24 20:35:35 UTC 2018
+#@# Make Pial Surf rh Wed Jan 24 21:01:25 UTC 2018
+#@# Surf Volume lh Wed Jan 24 21:29:44 UTC 2018
+#@# Surf Volume rh Wed Jan 24 21:29:51 UTC 2018
+#@# Cortical ribbon mask Wed Jan 24 21:29:57 UTC 2018
+#@# Parcellation Stats lh Wed Jan 24 21:48:41 UTC 2018
+#@# Parcellation Stats rh Wed Jan 24 21:51:41 UTC 2018
+#@# Cortical Parc 2 lh Wed Jan 24 21:54:31 UTC 2018
+#@# Cortical Parc 2 rh Wed Jan 24 21:55:06 UTC 2018
+#@# Parcellation Stats 2 lh Wed Jan 24 21:55:42 UTC 2018
+#@# Parcellation Stats 2 rh Wed Jan 24 21:57:06 UTC 2018
+#@# Cortical Parc 3 lh Wed Jan 24 21:58:31 UTC 2018
+#@# Cortical Parc 3 rh Wed Jan 24 21:59:02 UTC 2018
+#@# Parcellation Stats 3 lh Wed Jan 24 21:59:30 UTC 2018
+#@# Parcellation Stats 3 rh Wed Jan 24 22:00:53 UTC 2018
+#@# WM/GM Contrast lh Wed Jan 24 22:02:16 UTC 2018
+#@# WM/GM Contrast rh Wed Jan 24 22:02:31 UTC 2018
+#@# Relabel Hypointensities Wed Jan 24 22:02:46 UTC 2018
+#@# AParc-to-ASeg aparc Wed Jan 24 22:03:43 UTC 2018
+#@# AParc-to-ASeg a2009s Wed Jan 24 22:15:20 UTC 2018
+#@# AParc-to-ASeg DKTatlas Wed Jan 24 22:27:23 UTC 2018
+#@# APas-to-ASeg Wed Jan 24 22:39:59 UTC 2018
+#@# ASeg Stats Wed Jan 24 22:40:16 UTC 2018
+#@# WMParc Wed Jan 24 22:52:25 UTC 2018
+#@# BA_exvivo Labels lh Wed Jan 24 23:18:53 UTC 2018
+#@# BA_exvivo Labels rh Wed Jan 24 23:29:30 UTC 2018
+recon-all -s 4076 finished without error at Wed Jan 24 23:40:20 UTC 2018
