@@ -1,0 +1,28 @@
+status file for recon-all
+Fri Feb  2 01:54:04 UTC 2018
+#@# MotionCor Fri Feb  2 01:54:10 UTC 2018
+#@# Talairach Fri Feb  2 01:54:31 UTC 2018
+#@# Talairach Failure Detection Fri Feb  2 01:57:53 UTC 2018
+#@# Nu Intensity Correction Fri Feb  2 01:57:53 UTC 2018
+#@# Intensity Normalization Fri Feb  2 02:01:37 UTC 2018
+#@# Skull Stripping Fri Feb  2 02:05:00 UTC 2018
+#@# EM Registration Fri Feb  2 02:40:27 UTC 2018
+#@# CA Normalize Fri Feb  2 03:03:55 UTC 2018
+#@# CA Reg Fri Feb  2 03:06:30 UTC 2018
+#@# SubCort Seg Fri Feb  2 08:38:27 UTC 2018
+#@# Merge ASeg Fri Feb  2 11:21:10 UTC 2018
+#@# Intensity Normalization2 Fri Feb  2 11:21:10 UTC 2018
+#@# Mask BFS Fri Feb  2 11:28:15 UTC 2018
+#@# WM Segmentation Fri Feb  2 11:28:20 UTC 2018
+#@# Fill Fri Feb  2 11:32:19 UTC 2018
+#@# Tessellate lh Fri Feb  2 11:34:12 UTC 2018
+#@# Tessellate rh Fri Feb  2 11:34:26 UTC 2018
+#@# Smooth1 lh Fri Feb  2 11:34:43 UTC 2018
+#@# Smooth1 rh Fri Feb  2 11:34:56 UTC 2018
+#@# Inflation1 lh Fri Feb  2 11:35:07 UTC 2018
+#@# Inflation1 rh Fri Feb  2 11:36:16 UTC 2018
+#@# QSphere lh Fri Feb  2 11:37:19 UTC 2018
+#@# QSphere rh Fri Feb  2 11:44:57 UTC 2018
+#@# Fix Topology Copy lh Fri Feb  2 11:51:48 UTC 2018
+#@# Fix Topology Copy rh Fri Feb  2 11:51:48 UTC 2018
+#@# Fix Topology lh Fri Feb  2 11:51:49 UTC 2018
